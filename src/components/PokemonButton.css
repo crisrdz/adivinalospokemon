@@ -1,0 +1,26 @@
+.pokemon-btn{
+    padding: .3rem;
+    margin: 1rem;
+    cursor: pointer;
+    box-shadow: 0 0 3px;
+    border-radius: 7px;
+    background-color: yellowgreen;
+    transition: background-color 0.3s ease;
+}
+
+@media (min-width: 480px) {
+    .pokemon-btn{
+        font-size: 1.4rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .pokemon-btn{
+        padding: .4rem;
+        font-size: 2rem;
+    }
+}
+
+.pokemon-btn:is(:hover, :active){
+    background-color: rgb(174, 224, 74);
+}

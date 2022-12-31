@@ -1,0 +1,7 @@
+.pokemon-temporizador{
+    position: absolute;
+    right: 0.8rem;
+    top: 0.8rem;
+    height: max-content;
+    text-align: center;
+}

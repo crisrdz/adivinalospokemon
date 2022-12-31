@@ -1,0 +1,757 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "types": ["fuego"]
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "types": ["fuego"]
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "types": ["fuego", "volador"]
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "types": ["agua"]
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "types": ["agua"]
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "types": ["agua"]
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "types": ["bicho"]
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "types": ["bicho"]
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "types": ["bicho", "volador"]
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "types": ["bicho", "veneno"]
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "types": ["bicho", "veneno"]
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "types": ["bicho", "veneno"]
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "types": ["normal"]
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "types": ["normal"]
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "types": ["veneno"]
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "types": ["veneno"]
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "types": ["tierra"]
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "types": ["tierra"]
+    },
+    {
+        "id": 29,
+        "name": "nidoran",
+        "types": ["veneno"]
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "types": ["veneno"]
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "types": ["veneno", "tierra"]
+    },
+    {
+        "id": 32,
+        "name": "nidoran",
+        "types": ["veneno"]
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "types": ["veneno"]
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "types": ["veneno", "tierra"]
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "types": ["hada"]
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "types": ["hada"]
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "types": ["fuego"]
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "types": ["fuego"]
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "types": ["normal", "hada"]
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "types": ["normal", "hada"]
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "types": ["veneno", "volador"]
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "types": ["veneno", "volador"]
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "types": ["bicho", "planta"]
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "types": ["bicho", "planta"]
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "types": ["bicho", "veneno"]
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "types": ["bicho", "veneno"]
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "types": ["tierra"]
+    },
+    {
+        "id": 51,
+        "name": "dugtrio",
+        "types": ["tierra"]
+    },
+    {
+        "id": 52,
+        "name": "meowth",
+        "types": ["normal"]
+    },
+    {
+        "id": 53,
+        "name": "persian",
+        "types": ["normal"]
+    },
+    {
+        "id": 54,
+        "name": "psyduck",
+        "types": ["agua"]
+    },
+    {
+        "id": 55,
+        "name": "golduck",
+        "types": ["agua"]
+    },
+    {
+        "id": 56,
+        "name": "mankey",
+        "types": ["lucha"]
+    },
+    {
+        "id": 57,
+        "name": "primeape",
+        "types": ["lucha"]
+    },
+    {
+        "id": 58,
+        "name": "growlithe",
+        "types": ["fuego"]
+    },
+    {
+        "id": 59,
+        "name": "arcanine",
+        "types": ["fuego"]
+    },
+    {
+        "id": 60,
+        "name": "poliwag",
+        "types": ["agua"]
+    },
+    {
+        "id": 61,
+        "name": "poliwhirl",
+        "types": ["agua"]
+    },
+    {
+        "id": 62,
+        "name": "poliwrath",
+        "types": ["agua", "lucha"]
+    },
+    {
+        "id": 63,
+        "name": "abra",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 64,
+        "name": "kadabra",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 65,
+        "name": "alakazam",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 66,
+        "name": "machop",
+        "types": ["lucha"]
+    },
+    {
+        "id": 67,
+        "name": "machoke",
+        "types": ["lucha"]
+    },
+    {
+        "id": 68,
+        "name": "machamp",
+        "types": ["lucha"]
+    },
+    {
+        "id": 69,
+        "name": "bellsprout",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 71,
+        "name": "victreebel",
+        "types": ["planta", "veneno"]
+    },
+    {
+        "id": 72,
+        "name": "tentacool",
+        "types": ["agua", "veneno"]
+    },
+    {
+        "id": 73,
+        "name": "tentacruel",
+        "types": ["agua", "veneno"]
+    },
+    {
+        "id": 74,
+        "name": "geodude",
+        "types": ["roca", "tierra"]
+    },
+    {
+        "id": 75,
+        "name": "graveler",
+        "types": ["roca", "tierra"]
+    },
+    {
+        "id": 76,
+        "name": "golem",
+        "types": ["roca", "tierra"]
+    },
+    {
+        "id": 77,
+        "name": "ponyta",
+        "types": ["fuego"]
+    },
+    {
+        "id": 78,
+        "name": "rapidash",
+        "types": ["fuego"]
+    },
+    {
+        "id": 79,
+        "name": "slowpoke",
+        "types": ["agua", "psíquico"]
+    },
+    {
+        "id": 80,
+        "name": "slowbro",
+        "types": ["agua", "psíquico"]
+    },
+    {
+        "id": 81,
+        "name": "magnemite",
+        "types": ["eléctrico", "acero"]
+    },
+    {
+        "id": 82,
+        "name": "magneton",
+        "types": ["eléctrico", "acero"]
+    },
+    {
+        "id": 83,
+        "name": "farfetch'd",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 84,
+        "name": "doduo",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 85,
+        "name": "dodrio",
+        "types": ["normal", "volador"]
+    },
+    {
+        "id": 86,
+        "name": "seel",
+        "types": ["agua"]
+    },
+    {
+        "id": 87,
+        "name": "dewgong",
+        "types": ["agua", "hielo"]
+    },
+    {
+        "id": 88,
+        "name": "grimer",
+        "types": ["veneno"]
+    },
+    {
+        "id": 89,
+        "name": "muk",
+        "types": ["veneno"]
+    },
+    {
+        "id": 90,
+        "name": "shellder",
+        "types": ["agua"]
+    },
+    {
+        "id": 91,
+        "name": "cloyster",
+        "types": ["agua", "hielo"]
+    },
+    {
+        "id": 92,
+        "name": "gastly",
+        "types": ["fantasma", "veneno"]
+    },
+    {
+        "id": 93,
+        "name": "haunter",
+        "types": ["fantasma", "veneno"]
+    },
+    {
+        "id": 94,
+        "name": "gengar",
+        "types": ["fantasma", "veneno"]
+    },
+    {
+        "id": 95,
+        "name": "onix",
+        "types": ["roca", "tierra"]
+    },
+    {
+        "id": 96,
+        "name": "drowzee",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 97,
+        "name": "hypno",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 98,
+        "name": "krabby",
+        "types": ["agua"]
+    },
+    {
+        "id": 99,
+        "name": "kingler",
+        "types": ["agua"]
+    },
+    {
+        "id": 100,
+        "name": "voltorb",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 101,
+        "name": "electrode",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 102,
+        "name": "exeggcute",
+        "types": ["planta", "psíquico"]
+    },
+    {
+        "id": 103,
+        "name": "exeggutor",
+        "types": ["planta", "psíquico"]
+    },
+    {
+        "id": 104,
+        "name": "cubone",
+        "types": ["tierra"]
+    },
+    {
+        "id": 105,
+        "name": "marowak",
+        "types": ["tierra"]
+    },
+    {
+        "id": 106,
+        "name": "hitmonlee",
+        "types": ["lucha"]
+    },
+    {
+        "id": 107,
+        "name": "hitmonchan",
+        "types": ["lucha"]
+    },
+    {
+        "id": 108,
+        "name": "lickitung",
+        "types": ["normal"]
+    },
+    {
+        "id": 109,
+        "name": "koffing",
+        "types": ["veneno"]
+    },
+    {
+        "id": 110,
+        "name": "weezing",
+        "types": ["veneno"]
+    },
+    {
+        "id": 111,
+        "name": "rhyhorn",
+        "types": ["tierra", "roca"]
+    },
+    {
+        "id": 112,
+        "name": "rhydon",
+        "types": ["tierra", "roca"]
+    },
+    {
+        "id": 113,
+        "name": "chansey",
+        "types": ["normal"]
+    },
+    {
+        "id": 114,
+        "name": "tangela",
+        "types": ["planta"]
+    },
+    {
+        "id": 115,
+        "name": "kangaskhan",
+        "types": ["normal"]
+    },
+    {
+        "id": 116,
+        "name": "horsea",
+        "types": ["agua"]
+    },
+    {
+        "id": 117,
+        "name": "seadra",
+        "types": ["agua"]
+    },
+    {
+        "id": 118,
+        "name": "goldeen",
+        "types": ["agua"]
+    },
+    {
+        "id": 119,
+        "name": "seaking",
+        "types": ["agua"]
+    },
+    {
+        "id": 120,
+        "name": "staryu",
+        "types": ["agua"]
+    },
+    {
+        "id": 121,
+        "name": "starmie",
+        "types": ["agua", "psíquico"]
+    },
+    {
+        "id": 122,
+        "name": "mr. mime",
+        "types": ["psíquico", "hada"]
+    },
+    {
+        "id": 123,
+        "name": "scyther",
+        "types": ["bicho", "volador"]
+    },
+    {
+        "id": 124,
+        "name": "jynx",
+        "types": ["hielo", "psíquico"]
+    },
+    {
+        "id": 125,
+        "name": "electabuzz",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 126,
+        "name": "magmar",
+        "types": ["fuego"]
+    },
+    {
+        "id": 127,
+        "name": "pinsir",
+        "types": ["bicho"]
+    },
+    {
+        "id": 128,
+        "name": "tauros",
+        "types": ["normal"]
+    },
+    {
+        "id": 129,
+        "name": "magikarp",
+        "types": ["agua"]
+    },
+    {
+        "id": 130,
+        "name": "gyarados",
+        "types": ["agua", "volador"]
+    },
+    {
+        "id": 131,
+        "name": "lapras",
+        "types": ["agua", "hielo"]
+    },
+    {
+        "id": 132,
+        "name": "ditto",
+        "types": ["normal"]
+    },
+    {
+        "id": 133,
+        "name": "eevee",
+        "types": ["normal"]
+    },
+    {
+        "id": 134,
+        "name": "vaporeon",
+        "types": ["agua"]
+    },
+    {
+        "id": 135,
+        "name": "jolteon",
+        "types": ["eléctrico"]
+    },
+    {
+        "id": 136,
+        "name": "flareon",
+        "types": ["fuego"]
+    },
+    {
+        "id": 137,
+        "name": "porygon",
+        "types": ["normal"]
+    },
+    {
+        "id": 138,
+        "name": "omanyte",
+        "types": ["roca", "agua"]
+    },
+    {
+        "id": 139,
+        "name": "omastar",
+        "types": ["roca", "agua"]
+    },
+    {
+        "id": 140,
+        "name": "kabuto",
+        "types": ["roca", "agua"]
+    },
+    {
+        "id": 141,
+        "name": "kabutops",
+        "types": ["roca", "agua"]
+    },
+    {
+        "id": 142,
+        "name": "aerodactyl",
+        "types": ["roca", "volador"]
+    },
+    {
+        "id": 143,
+        "name": "snorlax",
+        "types": ["normal"]
+    },
+    {
+        "id": 144,
+        "name": "articuno",
+        "types": ["hielo", "volador"]
+    },
+    {
+        "id": 145,
+        "name": "zapdos",
+        "types": ["eléctrico", "volador"]
+    },
+    {
+        "id": 146,
+        "name": "moltres",
+        "types": ["fuego", "volador"]
+    },
+    {
+        "id": 147,
+        "name": "dratini",
+        "types": ["dragón"]
+    },
+    {
+        "id": 148,
+        "name": "dragonair",
+        "types": ["dragón"]
+    },
+    {
+        "id": 149,
+        "name": "dragonite",
+        "types": ["dragón", "volador"]
+    },
+    {
+        "id": 150,
+        "name": "mewtwo",
+        "types": ["psíquico"]
+    },
+    {
+        "id": 151,
+        "name": "mew",
+        "types": ["psíquico"]
+    }
+]

@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    font-family: 'VT323', monospace;
+}
+
+html, body, #root{
+    height: 100%;
+}

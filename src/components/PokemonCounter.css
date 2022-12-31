@@ -1,0 +1,16 @@
+.container-contador{
+    --contador-size: 18rem;
+    position: absolute;
+    top: calc(50% - calc(var(--contador-size)/2));
+    left: calc(50% - calc(var(--contador-size)/2));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--contador-size);
+    width: var(--contador-size);
+    z-index: 100;
+}
+
+.contador{
+    text-shadow: 0 0 1rem white;
+}
