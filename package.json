@@ -1,7 +1,8 @@
 {
-  "name": "pokeproyecto",
-  "private": true,
-  "version": "0.0.0",
+  "name": "adivinalospokemon",
+  "version": "1.0.0",
+  "description": "A simple app to write the original 151 pokemon",
+  "author": "crisrdz",
   "type": "module",
   "scripts": {
     "dev": "vite",
